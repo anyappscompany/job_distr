@@ -1,0 +1,12 @@
+C:\_sync\projects\vs2017\job\job\bin\Release\job.dll
+C:\_sync\projects\vs2017\job\job\bin\Release\job.pdb
+C:\_sync\projects\vs2017\job\job\obj\Release\job.csproj.CoreCompileInputs.cache
+C:\_sync\projects\vs2017\job\job\obj\Release\job.dll
+C:\_sync\projects\vs2017\job\job\obj\Release\job.pdb
+C:\_sync\projects\vs2017\job\job\obj\Release\job.csprojResolveAssemblyReference.cache
+C:\_sync\projects\vs2017\job_1\job\obj\Release\job.csproj.CoreCompileInputs.cache
+C:\_sync\projects\vs2017\job_1\job\obj\Release\job.dll
+C:\_sync\projects\vs2017\job_1\job\obj\Release\job.pdb
+C:\_sync\projects\vs2017\job_1\job\bin\Release\job.dll
+C:\_sync\projects\vs2017\job_1\job\bin\Release\job.pdb
+C:\_sync\projects\vs2017\job_1\job\bin\Release\Ionic.Zip.dll

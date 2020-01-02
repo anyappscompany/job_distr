@@ -1,0 +1,6 @@
+C:\_sync\projects\vs2017\job\job\bin\Debug\job.dll
+C:\_sync\projects\vs2017\job\job\bin\Debug\job.pdb
+C:\_sync\projects\vs2017\job\job\obj\Debug\job.csprojResolveAssemblyReference.cache
+C:\_sync\projects\vs2017\job\job\obj\Debug\job.csproj.CoreCompileInputs.cache
+C:\_sync\projects\vs2017\job\job\obj\Debug\job.dll
+C:\_sync\projects\vs2017\job\job\obj\Debug\job.pdb
